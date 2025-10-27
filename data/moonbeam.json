@@ -118,6 +118,13 @@
     "forum": "dev0_sik"
   },
   {
+    "address": "0xb969639e3cbf1e5a1d753efb2be09de4f34001f7",
+    "name": "0xb969639e3cbf1e5a1d753efb2be09de4f34001f7",
+    "description": "I am Michele, CMO at Iceberg Nodes, supporting all teammates about Staking related items on both Telegram and Discord, I am also Community admin at Moonbeam Unofficial TG. I follow Gavin Wood research & development activities since 2017. I strongly believe Moonbeam can act both as engine of Polkadot eco interoperability and as the main access hub to onboard all the Innovation driven projects coming from EVM world. I am strongly interested in what is best for Moonbeam especially in view of future challenges/opportunities. I trust my judgment and the continuous contact with the community to make the right decisions, especially about all the Governance related items. You can always find me on TG or Discord, always glad to support Moonbeam Teammates!!!",
+    "interests": ["governance", "build", "grants"],
+    "tracks": ["root", "general_admin"]
+  },
+  {
     "address": "0xfd5882cc08b7a7d51daa7f5a7e74aaeceeeef63d",
     "name": "Jim-CertHum",
     "description": "I'm Jim, Founder of CertHum. I've been a part of the community since the launch of Moonbase Alpha, and CertHum runs collators and RPC nodes on all three Moonbeam Networks. I'm also a non-Foundation community member of the Moonbeam Community Grants Committee, and a member of the Moonbeam and Moonbeam Technical Committees. I’m participating in the delegation program because I believe the future on Moonbeam is bright, and with you delegations we can make sure it stays on the right path.",
@@ -285,12 +292,27 @@
     ]
   },
   {
-    "address": "0xbc6230c05952b65c21603514eac5d7cb7e56ca96",
-    "name": "Najhi",
+    "address": "0x99a1ca29b40e00e7b6cebfa8e0ba4b1cfcd205f7",
+    "name": "0x99a1ca29b40e00e7b6cebfa8e0ba4b1cfcd205f7",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0x98d30fea73df168f2a21d421ce062da1801285c4",
+    "name": "0x98d30fea73df168f2a21d421ce062da1801285c4",
     "description": "",
     "interests": [],
     "tracks": [],
-    "ensName": "najhi.eth"
+    "forum": "n3mus-neal"
+  },
+  {
+    "address": "0x946ef62e1a97865e99dd8366a87506858d83f279",
+    "name": "Steve",
+    "description": "Marketing & UI design. Director @SimplyStake + Chadcoin.com. Passionate about hybrid TTRPG experiences. Product & patent design for interactiveminis.com/ Bsc: Env Sci & Town Planning Relevant skill sets: -UI design, highly competent in AI tools -Polkadot power user since inception. -Provided feedback for UI's e.g. Polkadot.js and Astar. -Ran the Astar-Shiden Crowdloan Giveaway. Happy to help out if needed, you can find me on Twitter.",
+    "interests": [],
+    "tracks": [],
+    "ensName": "wojakpepe.eth"
   },
   {
     "address": "0x51e554eaf14b8c6afd4c946404f29a3c196f3b71",
@@ -306,6 +328,22 @@
     ]
   },
   {
+    "address": "0xe5d48435748aa32146afc970e1703131613338bf",
+    "name": "0xe5d48435748aa32146afc970e1703131613338bf",
+    "description": "",
+    "interests": [],
+    "tracks": [],
+    "forum": "zaynab_crypto"
+  },
+  {
+    "address": "0xbc6230c05952b65c21603514eac5d7cb7e56ca96",
+    "name": "Najhi",
+    "description": "",
+    "interests": [],
+    "tracks": [],
+    "ensName": "najhi.eth"
+  },
+  {
     "address": "0x98b6c27e7e223a6e89aa529ba790f0ff73c032d6",
     "name": "adcer",
     "description": "",
@@ -313,12 +351,11 @@
     "tracks": []
   },
   {
-    "address": "0x946ef62e1a97865e99dd8366a87506858d83f279",
-    "name": "Steve",
-    "description": "Marketing & UI design. Director @SimplyStake + Chadcoin.com. Passionate about hybrid TTRPG experiences. Product & patent design for interactiveminis.com/ Bsc: Env Sci & Town Planning Relevant skill sets: -UI design, highly competent in AI tools -Polkadot power user since inception. -Provided feedback for UI's e.g. Polkadot.js and Astar. -Ran the Astar-Shiden Crowdloan Giveaway. Happy to help out if needed, you can find me on Twitter.",
+    "address": "0xe5f1dabc2675ab4c66086d6e9846dbc3077029f3",
+    "name": "0xe5f1dabc2675ab4c66086d6e9846dbc3077029f3",
+    "description": "",
     "interests": [],
-    "tracks": [],
-    "ensName": "wojakpepe.eth"
+    "tracks": []
   },
   {
     "address": "0x79c1b604f845a66ab3552d8bc6372169b63d8642",
@@ -331,21 +368,6 @@
   {
     "address": "0x266abce9682f3322387f0779d11e370451bd7261",
     "name": "GamaToshi",
-    "description": "",
-    "interests": [],
-    "tracks": []
-  },
-  {
-    "address": "0x0d2d685b3eaa41d9db61e2d34cd8790e11bc96f4",
-    "name": "dlabs",
-    "description": "",
-    "interests": [],
-    "tracks": [],
-    "ensName": "dghost.eth"
-  },
-  {
-    "address": "0x8dea19fc09b6ffb2dbdfcbba7fa880d9b97daf39",
-    "name": "Guille Defi",
     "description": "",
     "interests": [],
     "tracks": []
@@ -364,20 +386,12 @@
     ]
   },
   {
-    "address": "0x4694006a0037856e57636290201eab0c3727cbe7",
-    "name": "Freakypimentos",
-    "description": "part of Moonbeam Family.",
-    "interests": ["identity", "nft", "security", "governance", "defi"],
-    "tracks": ["root", "referendum_canceller", "general_admin"],
-    "ensName": "freakypimentos.eth",
-    "forum": "freakypimentos"
-  },
-  {
-    "address": "0x77e42d28224bfcb9b5df52117a87ba0e1020559c",
-    "name": "crypto_monk",
+    "address": "0xb60c71205430d5070d07e9ac050b33c36cb2b407",
+    "name": "Guayo_Pelayo",
     "description": "",
     "interests": [],
-    "tracks": []
+    "tracks": [],
+    "ensName": "glmr.eth"
   },
   {
     "address": "0x680ab18047b31771a27e6c291c4b360e77df05be",
@@ -387,12 +401,21 @@
     "tracks": []
   },
   {
-    "address": "0xb60c71205430d5070d07e9ac050b33c36cb2b407",
-    "name": "Guayo_Pelayo",
+    "address": "0x0d2d685b3eaa41d9db61e2d34cd8790e11bc96f4",
+    "name": "dlabs",
     "description": "",
     "interests": [],
     "tracks": [],
-    "ensName": "glmr.eth"
+    "ensName": "dghost.eth"
+  },
+  {
+    "address": "0x4694006a0037856e57636290201eab0c3727cbe7",
+    "name": "Freakypimentos",
+    "description": "part of Moonbeam Family.",
+    "interests": ["identity", "nft", "security", "governance", "defi"],
+    "tracks": ["root", "referendum_canceller", "general_admin"],
+    "ensName": "freakypimentos.eth",
+    "forum": "freakypimentos"
   },
   {
     "address": "0x024580a265422dd58acb2a6f77300c74c095ea91",
@@ -402,8 +425,37 @@
     "tracks": []
   },
   {
-    "address": "0x11143042c83b9d2a6f709d806a39ace090782c00",
-    "name": "Peaa",
+    "address": "0x562dccfb329f5c49c0a86a8fa1cbdfdc720802f6",
+    "name": "0x562dccfb329f5c49c0a86a8fa1cbdfdc720802f6",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0x8dea19fc09b6ffb2dbdfcbba7fa880d9b97daf39",
+    "name": "Guille Defi",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0x77e42d28224bfcb9b5df52117a87ba0e1020559c",
+    "name": "crypto_monk",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0x9cc6250f9cb6707aedaf07f989e9ee3fe73b7301",
+    "name": "dendenmushi",
+    "description": "",
+    "interests": [],
+    "tracks": [],
+    "ensName": "bmquang.eth"
+  },
+  {
+    "address": "0x8ed465a73456d96cab47fbd35148e47b053a7762",
+    "name": "pzdc",
     "description": "",
     "interests": [],
     "tracks": []
@@ -423,35 +475,6 @@
     "tracks": []
   },
   {
-    "address": "0xa0c6154965973801e07956b91a8e32d8f893bc7a",
-    "name": "ken46",
-    "description": "",
-    "interests": [],
-    "tracks": [
-      "root",
-      "referendum_killer",
-      "referendum_canceller",
-      "general_admin",
-      "whitelisted_caller"
-    ],
-    "ensName": "ken46ace.eth"
-  },
-  {
-    "address": "0x4e7b1f5d52889144eb73ed4aff7b2dbaa511c6f3",
-    "name": "Dec",
-    "description": "",
-    "interests": [],
-    "tracks": [],
-    "ensName": "tripio.eth"
-  },
-  {
-    "address": "0x8ed465a73456d96cab47fbd35148e47b053a7762",
-    "name": "pzdc",
-    "description": "",
-    "interests": [],
-    "tracks": []
-  },
-  {
     "address": "0xdd3c0f408cad52ca1224cb52b97daea58b443fc1",
     "name": "Paps",
     "description": "",
@@ -463,6 +486,21 @@
       "general_admin",
       "whitelisted_caller"
     ]
+  },
+  {
+    "address": "0x11143042c83b9d2a6f709d806a39ace090782c00",
+    "name": "Peaa",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0x4e7b1f5d52889144eb73ed4aff7b2dbaa511c6f3",
+    "name": "Dec",
+    "description": "",
+    "interests": [],
+    "tracks": [],
+    "ensName": "tripio.eth"
   },
   {
     "address": "0x0a8cf6212efbde87e36c925daccd603a026ab982",
@@ -480,12 +518,48 @@
     "website": "https://earnappmoney.com"
   },
   {
-    "address": "0x9cc6250f9cb6707aedaf07f989e9ee3fe73b7301",
-    "name": "dendenmushi",
+    "address": "0xa0c6154965973801e07956b91a8e32d8f893bc7a",
+    "name": "ken46",
+    "description": "",
+    "interests": [],
+    "tracks": [
+      "root",
+      "referendum_killer",
+      "referendum_canceller",
+      "general_admin",
+      "whitelisted_caller"
+    ],
+    "ensName": "ken46ace.eth"
+  },
+  {
+    "address": "0x274f44a0debd22d9827571447012b15beb287113",
+    "name": "MKTF83",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0xb0a33a136250db0eb256ad7c370f9eacf6f935ed",
+    "name": "Darbakearg ドツサマ",
+    "description": "Hi, i'm a dotsama enthusiastic !",
+    "interests": [],
+    "tracks": [
+      "root",
+      "referendum_killer",
+      "referendum_canceller",
+      "general_admin",
+      "whitelisted_caller"
+    ]
+  },
+  {
+    "address": "0x8b529ef78046008f9d1fbc91c7407030de96ee32",
+    "name": "Marc | Blockshard",
     "description": "",
     "interests": [],
     "tracks": [],
-    "ensName": "bmquang.eth"
+    "website": "https://blockshard.io",
+    "ensName": "blockshard.eth",
+    "forum": "marc_blockshard"
   },
   {
     "address": "0x6ae08c45c6c6368cbe772d84c162634517a08dd4",
@@ -502,15 +576,15 @@
     "ensName": "ozorafd.eth"
   },
   {
-    "address": "0x26a1d14efd5fa1ac8f4d8ccc59120ba8cc6dc502",
-    "name": "Morse",
+    "address": "0x1ebcbd25c7570c270b346fa718b1c16924415886",
+    "name": "0x1ebcbd25c7570c270b346fa718b1c16924415886",
     "description": "",
     "interests": [],
     "tracks": []
   },
   {
-    "address": "0x074fc269df0d8f6805b0148bd65095af2c53c3a6",
-    "name": "IndianJesus",
+    "address": "0xe6b2bf9fe601f84ceff663c83a03c6d9aae2ee8b",
+    "name": "TS",
     "description": "",
     "interests": [],
     "tracks": []
@@ -523,48 +597,33 @@
     "tracks": []
   },
   {
-    "address": "0x274f44a0debd22d9827571447012b15beb287113",
-    "name": "MKTF83",
+    "address": "0x074fc269df0d8f6805b0148bd65095af2c53c3a6",
+    "name": "IndianJesus",
     "description": "",
     "interests": [],
     "tracks": []
   },
   {
-    "address": "0x8b529ef78046008f9d1fbc91c7407030de96ee32",
-    "name": "Marc | Blockshard",
+    "address": "0x26a1d14efd5fa1ac8f4d8ccc59120ba8cc6dc502",
+    "name": "Morse",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0x018c5d1bc9917aed0f6c10032d5d7729e8765eef",
+    "name": "0x018c5d1bc9917aed0f6c10032d5d7729e8765eef",
     "description": "",
     "interests": [],
     "tracks": [],
-    "website": "https://blockshard.io",
-    "ensName": "blockshard.eth",
-    "forum": "marc_blockshard"
+    "forum": "deckardonchain"
   },
   {
-    "address": "0xb0a33a136250db0eb256ad7c370f9eacf6f935ed",
-    "name": "Darbakearg ドツサマ",
-    "description": "Hi, i'm a dotsama enthusiastic !",
-    "interests": [],
-    "tracks": [
-      "root",
-      "referendum_killer",
-      "referendum_canceller",
-      "general_admin",
-      "whitelisted_caller"
-    ]
-  },
-  {
-    "address": "0xe6b2bf9fe601f84ceff663c83a03c6d9aae2ee8b",
-    "name": "TS",
+    "address": "0x0ee0b4d2ff7e7b02c011178d9440d05f50ce2ee3",
+    "name": "0x0ee0b4d2ff7e7b02c011178d9440d05f50ce2ee3",
     "description": "",
     "interests": [],
     "tracks": []
-  },
-  {
-    "address": "0x6bd47b65ed457b6a6ee69bd1c42fee4e7d1ec07d",
-    "name": "MetaPras",
-    "description": "Hi, I’m Georgi from Bulgaria",
-    "interests": ["defi", "governance"],
-    "tracks": ["root", "whitelisted_caller"]
   },
   {
     "address": "0x2c18b21a23f03bfc0b667744389c4f79542b31a5",
@@ -581,11 +640,25 @@
     "ensName": "netacad.eth"
   },
   {
-    "address": "0xdb14ef6499259e12f3eae70bc4a4432613864f79",
-    "name": "Mo",
+    "address": "0x431fe400518a39a19e9bb5e4b66c914315c4db5c",
+    "name": "TAD",
     "description": "",
     "interests": [],
     "tracks": []
+  },
+  {
+    "address": "0x693caa51737f3ac57a5a41ac34e22448f00e9c6e",
+    "name": "Sdfuturo",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0x6bd47b65ed457b6a6ee69bd1c42fee4e7d1ec07d",
+    "name": "MetaPras",
+    "description": "Hi, I’m Georgi from Bulgaria",
+    "interests": ["defi", "governance"],
+    "tracks": ["root", "whitelisted_caller"]
   },
   {
     "address": "0x41d4b02022165fcd47b4e0f64aa41eef9ef1da38",
@@ -603,8 +676,22 @@
     "discussionThread": "https://forum.moonbeam.network/u/_yrn/summary"
   },
   {
-    "address": "0x693caa51737f3ac57a5a41ac34e22448f00e9c6e",
-    "name": "Sdfuturo",
+    "address": "0x97529f54cbbef4e572205fe397e4540095c6475d",
+    "name": "0x97529f54cbbef4e572205fe397e4540095c6475d",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0xdb14ef6499259e12f3eae70bc4a4432613864f79",
+    "name": "Mo",
+    "description": "",
+    "interests": [],
+    "tracks": []
+  },
+  {
+    "address": "0xe1dea1989f5a7e40cf0a7ad2093cae59cf8702c7",
+    "name": "0xe1dea1989f5a7e40cf0a7ad2093cae59cf8702c7",
     "description": "",
     "interests": [],
     "tracks": []
@@ -618,27 +705,42 @@
     "forum": "natalia_k"
   },
   {
-    "address": "0x431fe400518a39a19e9bb5e4b66c914315c4db5c",
-    "name": "TAD",
-    "description": "",
-    "interests": [],
-    "tracks": []
+    "address": "0x75d94db4af1519862a0d5e1f9ef818866f1fbc41",
+    "name": "GameOver",
+    "description": "Hi, I'm Alexei, a Web3 Worker available 24/7. I'm a moderator for the Moonbeam Reddit. If you have any questions, just DM me. Reach out to me on Telegram @Game0verMachine.",
+    "interests": ["defi", "nft", "security", "build", "governance", "grants"],
+    "tracks": [
+      "root",
+      "referendum_killer",
+      "referendum_canceller",
+      "whitelisted_caller"
+    ],
+    "website": "https://cugutalex.wixsite.com/amb-gameover",
+    "ensName": "gameovermachine.eth"
   },
   {
-    "address": "0x7ce57049de6d970a96e7e2e0b895207634243212",
-    "name": "TonyMoon",
-    "description": "I have been a Moonbeam Ambassador since the beginning, I have tested both Moonbeam and Moonriver parachain networks. I am a Guild Leader in SubQuery and an Ambassador in Manta Network",
-    "interests": ["build", "defi", "nft", "identity"],
-    "tracks": ["root", "general_admin", "whitelisted_caller"],
-    "website": "https://twitter.com/MaestroIt8",
-    "ensName": "tonymoon.eth",
-    "forum": "tonymoon"
+    "address": "0x8ffc862d7954dbae096d2d1402c5a0aca1e45c89",
+    "name": "0x8ffc862d7954dbae096d2d1402c5a0aca1e45c89",
+    "description": "Hello to everyone who is looking for a way to safely invest their funds with interest. - If you don't want to worry about your funds that you have given to your delegator. - If you want to consistently earn your interest without drawdowns. - If you want your validator to understand security and how to protect them from hacking. In that case, delegate them to my validator. I have more than 2 years of experience as a validator on different networks and projects. I am a validator on the Solana mainnet and testnet. I have participated in testnets of different projects such as: Moonbeam, Bit.Country, NYM, Casper, Aptos, Evmoos and many more. I protect my servers with unique keys and 2fa. Also, I use a spare server to always keep my node up and running. Also, I participate in the community so that I don't miss important votes and their discussions.",
+    "interests": [],
+    "tracks": ["root", "general_admin"],
+    "website": "https://ipfs.io/ipfs/QmVAKsfbM7HDL1jhmKRAJbgtqSw5ChTf3mL4YDHL2N8E5V/",
+    "forum": "icefrostv2"
   },
   {
-    "address": "0xc816320af1e18368ea8d67631f954622fbb0f94f",
-    "name": "arnold6083",
-    "description": "Hey! I am a Senior Ambassador for Moonbeam and have been impressed by the contributions to innovation and development. Glad to be part of a team that moves the world forward. I am inspired by the products and want to be directly involved in their promotion. I strive to continuously improve my skills and Moonbeam is the perfect platform for this.",
-    "interests": [],
+    "address": "0x195ff37fc18ac6c8e0db763c402a9c641b092364",
+    "name": "Anomalia",
+    "description": "Moonbeam is one of the most influential networks in the blockchain community, offering customized services to users. We can talk endlessly about the advantage and competitiveness of the project. As an ambassador, I am not only interested in the technology, which Moonbeam has in abundance, but also in the community, which is growing day by day. I am confident in the strength of our team, we will achieve great success in the crypto industry!",
+    "interests": [
+      "build",
+      "defi",
+      "governance",
+      "grants",
+      "identity",
+      "legal",
+      "nft",
+      "security"
+    ],
     "tracks": [
       "root",
       "referendum_killer",
@@ -646,23 +748,8 @@
       "general_admin",
       "whitelisted_caller"
     ],
-    "website": "https://twitter.com/arnoldik26",
-    "forum": "arnold6083"
-  },
-  {
-    "address": "0x609d12eaddfd805de8e7b75d124c950f073dde27",
-    "name": "w124eth aka Benzi",
-    "description": "Hi all I'm w124eth aka Benzi I am Moonbeam senior ambassador Since the begining with Moonbeam and Moonriver ! I help our community from day one ! I love to create a graphic content and not only it ! Maybe you may have seen my stickers ! Feel free dm me on Telegram - @w124eth",
-    "interests": ["build", "defi", "governance", "nft", "security", "grants"],
-    "tracks": [
-      "root",
-      "referendum_killer",
-      "referendum_canceller",
-      "general_admin",
-      "whitelisted_caller"
-    ],
-    "website": "https://twitter.com/numberswetrust",
-    "forum": "w124eth"
+    "website": "https://twitter.com/Anomaliiq",
+    "forum": "bellissimacuore"
   },
   {
     "address": "0xcd98aa3437f953259e6983ebb8fe47b5f50317b4",
@@ -687,6 +774,21 @@
     ],
     "website": "https://link3.to/extezymr",
     "ensName": "extezymr.eth"
+  },
+  {
+    "address": "0xc816320af1e18368ea8d67631f954622fbb0f94f",
+    "name": "arnold6083",
+    "description": "Hey! I am a Senior Ambassador for Moonbeam and have been impressed by the contributions to innovation and development. Glad to be part of a team that moves the world forward. I am inspired by the products and want to be directly involved in their promotion. I strive to continuously improve my skills and Moonbeam is the perfect platform for this.",
+    "interests": [],
+    "tracks": [
+      "root",
+      "referendum_killer",
+      "referendum_canceller",
+      "general_admin",
+      "whitelisted_caller"
+    ],
+    "website": "https://twitter.com/arnoldik26",
+    "forum": "arnold6083"
   },
   {
     "address": "0x3a5cf34c264a22c545120311969b36161d767dcb",
@@ -726,33 +828,10 @@
     "forum": "lesnik_utsa"
   },
   {
-    "address": "0x75d94db4af1519862a0d5e1f9ef818866f1fbc41",
-    "name": "GameOver",
-    "description": "Hi, I'm Alexei, a Web3 Worker available 24/7. I'm a moderator for the Moonbeam Reddit. If you have any questions, just DM me. Reach out to me on Telegram @Game0verMachine.",
-    "interests": ["defi", "nft", "security", "build", "governance", "grants"],
-    "tracks": [
-      "root",
-      "referendum_killer",
-      "referendum_canceller",
-      "whitelisted_caller"
-    ],
-    "website": "https://cugutalex.wixsite.com/amb-gameover",
-    "ensName": "gameovermachine.eth"
-  },
-  {
-    "address": "0x195ff37fc18ac6c8e0db763c402a9c641b092364",
-    "name": "Anomalia",
-    "description": "Moonbeam is one of the most influential networks in the blockchain community, offering customized services to users. We can talk endlessly about the advantage and competitiveness of the project. As an ambassador, I am not only interested in the technology, which Moonbeam has in abundance, but also in the community, which is growing day by day. I am confident in the strength of our team, we will achieve great success in the crypto industry!",
-    "interests": [
-      "build",
-      "defi",
-      "governance",
-      "grants",
-      "identity",
-      "legal",
-      "nft",
-      "security"
-    ],
+    "address": "0x609d12eaddfd805de8e7b75d124c950f073dde27",
+    "name": "w124eth aka Benzi",
+    "description": "Hi all I'm w124eth aka Benzi I am Moonbeam senior ambassador Since the begining with Moonbeam and Moonriver ! I help our community from day one ! I love to create a graphic content and not only it ! Maybe you may have seen my stickers ! Feel free dm me on Telegram - @w124eth",
+    "interests": ["build", "defi", "governance", "nft", "security", "grants"],
     "tracks": [
       "root",
       "referendum_killer",
@@ -760,7 +839,17 @@
       "general_admin",
       "whitelisted_caller"
     ],
-    "website": "https://twitter.com/Anomaliiq",
-    "forum": "bellissimacuore"
+    "website": "https://twitter.com/numberswetrust",
+    "forum": "w124eth"
+  },
+  {
+    "address": "0x7ce57049de6d970a96e7e2e0b895207634243212",
+    "name": "TonyMoon",
+    "description": "I have been a Moonbeam Ambassador since the beginning, I have tested both Moonbeam and Moonriver parachain networks. I am a Guild Leader in SubQuery and an Ambassador in Manta Network",
+    "interests": ["build", "defi", "nft", "identity"],
+    "tracks": ["root", "general_admin", "whitelisted_caller"],
+    "website": "https://twitter.com/MaestroIt8",
+    "ensName": "tonymoon.eth",
+    "forum": "tonymoon"
   }
 ]
