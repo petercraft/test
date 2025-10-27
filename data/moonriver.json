@@ -62,6 +62,21 @@
     "tracks": []
   },
   {
+    "address": "0x9258fbcddf8174c5b13264297fc8379d00d04115",
+    "name": "0x9258fbcddf8174c5b13264297fc8379d00d04115",
+    "description": "Hi, I’m Jordan. I’ve been active in Web3 for several years, with a focus on running infra, trading, building blockchain tracability/analytics tooling, and decentralized finance. I joined the Moonbeam Governance Guild to support the Moonriver network through thoughtful participation and transparent communication. I’m here to contribute to proposals that strengthen the network and reflect the long-term interests of the community. Always open to feedback and discussion! Please reach out to me on discord @Frenofafren or TG @jordanagrippa",
+    "interests": ["governance", "build", "core protocol"],
+    "tracks": [
+      "root",
+      "general_admin",
+      "whitelisted_caller",
+      "referendum_killer",
+      "referendum_canceller",
+      "fast_general_admin"
+    ],
+    "forum": "frenofafren"
+  },
+  {
     "address": "0x76322f53b91cb8849dfb2007ed862940934b3520",
     "name": "svpatrik",
     "description": "Hello, members of the Moonbeam community! Today, I want to share my passion for our project and my commitment to helping it grow and develop. I believe in being a responsible delegate who will represent our community's interests and contribute to making Moonbeam even better. Some of you know me as a telegram chat moderator, my nickname is SvPatrik. I joined the project more than two years ago and during this time my passion and faith in the project has only increased. As a community delegate, I promise: I will always be open, honest, and fair in my decision-making process. It's important to me that our community can trust that I will do what's right for all of us. I understand the importance of staying up-to-date with what's happening in our network. I will take the time to research and understand proposals before making any voting decisions, so that I can make informed choices that benefit our community. I believe that everyone's voice should be heard. As a delegate, I will actively listen to your thoughts, concerns, and ideas. I want to create an inclusive environment where we can work together to make Moonbeam the best it can be. I care deeply about the different needs and interests within our community. Whether you're a developer, a stakeholder, or a user, I will make sure your interests are represented and fought for in our decision-making process. I believe in the future of Moonbeam. As a delegate, I will make choices that support our long-term success. This includes prioritizing security, wisely allocating resources, and supporting the growth of developers and projects on our network. Conclusion: Together, we can shape the future of Moonbeam. As a responsible delegate, I am here to support you, promote growth, and create a sustainable ecosystem. Let's work together, build partnerships, and make Moonbeam even better. Your trust and support mean the world to me. Thank you for your attention!",
@@ -265,49 +280,6 @@
     "website": "https://www.karmahq2.xyz"
   },
   {
-    "address": "0x0208e42ef2adc5086c1bf50c679da47b90d83a69",
-    "name": "Djo",
-    "description": "Hey, everybody. This is Djo. Joined moonbeam a couple years ago. All this time I have been contributing my skills and abilities to its development. I'm honored to be a part of it. As of recently I am a member of the Moonbeam Governance Guild. Glad to help others to join us.",
-    "interests": ["defi", "gaming", "governance", "nft", "security", "daos"],
-    "tracks": ["general_admin"],
-    "website": "https://x.com/ser_gka",
-    "forum": "tram.papam"
-  },
-  {
-    "address": "0xb4fc9a7b8be45c14b6a7364667069544ea4cbde0",
-    "name": "Djo",
-    "description": "",
-    "interests": [],
-    "tracks": [],
-    "website": "https://twitter.com/ser_gka",
-    "ensName": "tramadol65.eth",
-    "forum": "djo.ny"
-  },
-  {
-    "address": "0x7ce57049de6d970a96e7e2e0b895207634243212",
-    "name": "TonyMoon",
-    "description": "I have been a Moonbeam Ambassador since the beginning, I have tested both Moonbeam and Moonriver parachain networks. I am a Guild Leader in SubQuery and an Ambassador in Manta Network",
-    "interests": [
-      "build",
-      "core protocol",
-      "defi",
-      "identity",
-      "legal",
-      "security",
-      "governance",
-      "gaming"
-    ],
-    "tracks": [
-      "root",
-      "general_admin",
-      "whitelisted_caller",
-      "referendum_killer",
-      "referendum_canceller"
-    ],
-    "website": "https://twitter.com/MaestroIt8",
-    "ensName": "tonymoon.eth"
-  },
-  {
     "address": "0x97b102e00d88f02debfd6b1e4b901dd6931bb982",
     "name": "sukrucildirr",
     "description": "caeengineer",
@@ -345,18 +317,37 @@
     "forum": "marc_blockshard"
   },
   {
-    "address": "0xb461ac4f16ce7150131018895f8b01140943acfd",
-    "name": "StakeBaby",
-    "description": "StakeBaby operates collators in Moonbeam and Moonriver and the websites stakeglmr.com and stakemovr.com",
+    "address": "0xb4fc9a7b8be45c14b6a7364667069544ea4cbde0",
+    "name": "Djo",
+    "description": "",
+    "interests": [],
+    "tracks": [],
+    "website": "https://twitter.com/ser_gka",
+    "ensName": "tramadol65.eth",
+    "forum": "djo.ny"
+  },
+  {
+    "address": "0x0208e42ef2adc5086c1bf50c679da47b90d83a69",
+    "name": "Djo",
+    "description": "Hey, everybody. This is Djo. Joined moonbeam a couple years ago. All this time I have been contributing my skills and abilities to its development. I'm honored to be a part of it. As of recently I am a member of the Moonbeam Governance Guild. Glad to help others to join us.",
+    "interests": ["defi", "gaming", "governance", "nft", "security", "daos"],
+    "tracks": ["general_admin"],
+    "website": "https://x.com/ser_gka",
+    "forum": "tram.papam"
+  },
+  {
+    "address": "0x7ce57049de6d970a96e7e2e0b895207634243212",
+    "name": "TonyMoon",
+    "description": "I have been a Moonbeam Ambassador since the beginning, I have tested both Moonbeam and Moonriver parachain networks. I am a Guild Leader in SubQuery and an Ambassador in Manta Network",
     "interests": [
+      "build",
       "core protocol",
       "defi",
-      "governance",
-      "daos",
-      "gaming",
+      "identity",
       "legal",
-      "nft",
-      "identity"
+      "security",
+      "governance",
+      "gaming"
     ],
     "tracks": [
       "root",
@@ -365,8 +356,8 @@
       "referendum_killer",
       "referendum_canceller"
     ],
-    "website": "https://stakebaby.com",
-    "forum": "ioannis_dvn"
+    "website": "https://twitter.com/MaestroIt8",
+    "ensName": "tonymoon.eth"
   },
   {
     "address": "0x24089f9bbf4419e99c65dc18c9a507ebf8fae2f8",
@@ -411,5 +402,29 @@
     ],
     "website": "https://www.tfalpha.xyz/",
     "forum": "lordglmr"
+  },
+  {
+    "address": "0xb461ac4f16ce7150131018895f8b01140943acfd",
+    "name": "StakeBaby",
+    "description": "StakeBaby operates collators in Moonbeam and Moonriver and the websites stakeglmr.com and stakemovr.com",
+    "interests": [
+      "core protocol",
+      "defi",
+      "governance",
+      "daos",
+      "gaming",
+      "legal",
+      "nft",
+      "identity"
+    ],
+    "tracks": [
+      "root",
+      "general_admin",
+      "whitelisted_caller",
+      "referendum_killer",
+      "referendum_canceller"
+    ],
+    "website": "https://stakebaby.com",
+    "forum": "ioannis_dvn"
   }
 ]
